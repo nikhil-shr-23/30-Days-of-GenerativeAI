@@ -1,3 +1,1 @@
-Day 1: Introduction to Generative AI
-
-    
+# Day 1
